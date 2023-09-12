@@ -16,6 +16,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TimelineView"
+rootProject.name = "timelineview"
 include(":app")
 include(":timelineview")
